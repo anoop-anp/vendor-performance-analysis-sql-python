@@ -20,7 +20,7 @@ and assess inventory efficiency using structured KPI engineering.
 
 
 
-# 🚀 Project Objective
+## 🚀 Project Objective
 
 
 
@@ -42,7 +42,7 @@ This project focuses on solving the following business challenges:
 
 
 
-# 🏗️ Project Architecture
+## 🏗️ Project Architecture
 
 
 
@@ -78,7 +78,7 @@ Exploratory Data Analysis
 
 
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -132,7 +132,7 @@ vendor-performance-analysis/
 
 
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 
 
@@ -160,11 +160,11 @@ vendor-performance-analysis/
 
 
 
-# 🔄 Data Pipeline Flow
+## 🔄 Data Pipeline Flow
 
 
 
- \## 1️⃣ Data Ingestion (ingestion\_db.py)
+### 1️⃣ Data Ingestion (ingestion\_db.py)
 
 
 
@@ -182,7 +182,7 @@ vendor-performance-analysis/
 
 
 
-\## 2️⃣ Vendor Summary Creation (get\_vendor\_summary.py)
+### 2️⃣ Vendor Summary Creation (get\_vendor\_summary.py)
 
 
 
@@ -204,7 +204,7 @@ Uses SQL CTE queries to:
 
 
 
-\# 🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 
 
@@ -220,7 +220,7 @@ Uses SQL CTE queries to:
 
 
 
-\# 📊 KPIs Generated
+## 📊 KPIs Generated
 
 
 
@@ -248,7 +248,7 @@ Uses SQL CTE queries to:
 
 
 
-\# 📈 Business Insights Derived
+## 📈 Business Insights Derived
 
 
 
@@ -266,7 +266,7 @@ Uses SQL CTE queries to:
 
 
 
-\# 🧮 Key KPI Formulas
+## 🧮 Key KPI Formulas
 
 
 
@@ -290,7 +290,7 @@ Sales to Purchase Ratio = Sales Dollars / Purchase Dollars
 
 
 
-# ▶️ How To Run This Project
+## ▶️ How To Run This Project
 
 
 
@@ -324,7 +324,7 @@ Open Jupyter Notebook and execute:
 
 
 
-\# 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
